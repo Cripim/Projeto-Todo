@@ -1,4 +1,4 @@
-Mini Projeto - To Do. 
+<h1> Mini Projeto - To Do. </h1>
 
 Este projeto consiste em uma ferramenta no terminal que auxilia o desenvolvedor web no dia a dia com CSS.
 
