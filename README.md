@@ -13,6 +13,11 @@ Utilizei o Node para montar um código que recebe uma lista de propriedades do C
 
 - NodeJS
 - JAVASCRIPT.
+
+<h2> ferramenta na prática: </h2>
+
+![image](https://user-images.githubusercontent.com/102764794/182286646-5b7907c5-1106-4f03-b263-28db1d2d55a0.png)
+
  
 
 
